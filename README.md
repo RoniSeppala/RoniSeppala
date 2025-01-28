@@ -15,7 +15,7 @@ I'm a 3rd year software engineering student at LUT-University, with a strong int
 I have been running Home Assistant for a couple of years. "I have an old low-power office desktop running Fedora Linux Server where I have Home Assistant running on a virtual machine. I have done multiple projects automating my life with it such as automatic curtains made with a motor and an ESP32 microcontroller as well as nearly fully automated smart lights using Wi-Fi and Zigbee. My future plans include upgrading the server hardware and switching to Proxmox or TrueNAS for improved virtualization and storage management in addition to projects automating my life further.
 
 ### 3D printing
-I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, automatic bed leveling and filament runout sensor. 3D printing pairs well with home automation, as I am able to build fully custom projects with 3D printed parts designed in Fusion 360 in addition to simple microcontrollers such as the ESP32.
+I have a heavily customized Ender 3 v2, with mods such as direct-drive hotend, automatic bed leveling and filament runout sensor. 3D printing pairs well with home automation, as I am able to build fully custom projects with 3D printed parts designed in Fusion 360 in addition to simple microcontrollers such as the ESP32.
 
 ## GitHub Stats
 <p>
