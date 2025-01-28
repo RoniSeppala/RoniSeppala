@@ -19,9 +19,9 @@ I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, 
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/roni-seppala)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30px" alt="LinkedIn">](https://www.linkedin.com/in/roni-seppala)
 
-![Email](https://img.shields.io/badge/Email-square&logo=gmail) [your.email@example.com](mailto:your.email@example.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" alt="Email">](mailto:yourname@example.com)
