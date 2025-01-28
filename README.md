@@ -18,10 +18,10 @@ I have been running Home Assistant for a couple of years. "I have an old low-pow
 I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, automatic bed leveling and filament runout sensor. 3D printing pairs well with home automation, as I am able to build fully custom projects with 3D printed parts designed in Fusion 360 in addition to simple microcontrollers such as the ESP32.
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
 
 ## Contact
