@@ -19,9 +19,10 @@ I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, 
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=dark)
 
 ## Contact
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30px" alt="LinkedIn" style="fill:#ADD8E6>](https://www.linkedin.com/in/roni-seppala) [www.linkedin.com/in/roni-seppala/](https://www.linkedin.com/in/roni-seppala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roni-seppala) [www.linkedin.com/in/roni-seppala/](https://www.linkedin.com/in/roni-seppala/)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" alt="Email" style="fill:#ADD8E6>](mailto:roni.o.seppala@gmail.com) [roni.o.seppala@gmail.com](mailto:roni.o.seppala@gmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" alt="Email">](mailto:roni.o.seppala@gmail.com) [roni.o.seppala@gmail.com](mailto:roni.o.seppala@gmail.com)
