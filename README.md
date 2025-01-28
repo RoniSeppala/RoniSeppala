@@ -19,8 +19,7 @@ I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, 
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" height="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=radical" alt="Top Languages" width="50%" height="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoniSeppala&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" height="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=radical" alt="Top Languages" width="50%" height="100%"/>
 </p>
 
 ## Contact
