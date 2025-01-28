@@ -23,6 +23,8 @@ I have a heavily customized Ender 3 v2, with mods such as direct drive hot-end, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoniSeppala&layout=compact&theme=dark)
 
 ## Contact
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="25px" alt="LinkedIn" style="padding-top: 5px;>](https://www.linkedin.com/in/roni-seppala)  [www.linkedin.com/in/roni-seppala/](https://www.linkedin.com/in/roni-seppala/)
+[<a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="25px" alt="LinkedIn" style="padding-top: 5px;>
+</a>]  [www.linkedin.com/in/roni-seppala/](https://www.linkedin.com/in/roni-seppala/)
 
 [<img src="https://www.svgrepo.com/show/400199/email.svg" width="25px" alt="Email" style="padding-top: 5px;>](mailto:roni.o.seppala@gmail.com)  [roni.o.seppala@gmail.com](mailto:roni.o.seppala@gmail.com)
