@@ -1,5 +1,5 @@
 ## About Me
-I'm a 1st year software engineering Masters student at LUT-University, with a strong interest in programming and software development. I am familiar with many languages, tools and frameworks and I have a long-standing background in computers as a hobby. I am most experienced with web development and server administration, but I am eager to expand my skill set into other areas as well. Outside of programming, I am a home automation and 3D printing hobbyist, and you can regularly find me at the gym.
+I'm a 1st year Software Engineering Master's student at LUT-University with an interest in backend and system administration. My main strengths revolve around my hands-on experience with self-hosting and thus include backend work, Linux server administration, virtualization and networking. I value clean interfaces and enjoy solving real operational problems when taking a project from idea to deployment.
 
 ## Skills
 - **Languages:** TypeScript | JavaScript | HTML | Python | C | Java | CSS | Sass | SQL | Bash
