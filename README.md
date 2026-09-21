@@ -1,5 +1,5 @@
 ## About Me
-I'm a 1st year Software Engineering Master's student at LUT-University with an interest in backend and system administration. My main strengths revolve around my hands-on experience with self-hosting and thus include backend work, Linux server administration, virtualization and networking. I value clean interfaces and enjoy solving real operational problems when taking a project from idea to deployment.
+I'm a 2nd year Software Engineering Master's student at LUT-University with an interest in backend and system administration. My main strengths revolve around my hands-on experience with self-hosting and thus include backend work, Linux server administration, virtualization and networking. I value clean interfaces and enjoy solving real operational problems when taking a project from idea to deployment.
 
 ## Skills
 - **Languages:** TypeScript | JavaScript | HTML | Python | C | Java | CSS | Sass | SQL | Bash
